@@ -11,8 +11,7 @@
 }
 
 .chats__body {
-  padding: 10px 0px;
-  padding-top: 100px;
+  padding: 100px 0px;
 }
 .chats__body .header,
 .chats__body .status-bar {
